@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dintharu2023@gmail.com"><img src="https://img.shields.io/badge/Email-dintharu2023%40gmail.com-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" alt="Email" /></a>
+  <a href="mailto:dintharu2023@gmail.com"><img src="https://img.shields.io/badge/Email-dintharu2023%40gmail.com-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0b2214" alt="Email" /></a>
 </p>
 
 ---
